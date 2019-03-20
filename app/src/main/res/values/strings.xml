@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoPlayInRecyclerView</string>
+    <string name="recycler_view_media_player">RecyclerView + MediaPlayer</string>
+    <string name="recycler_view_exo_player">RecyclerView + ExoPlayer</string>
+</resources>
